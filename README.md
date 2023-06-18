@@ -1,4 +1,6 @@
 # GraduationProject
-ELE401-402 Graduation Project Implementation 
-Selen Uzunmehmetoglu
+ELE401-402 Graduation Project Implementation  
+
+Selen Uzunmehmetoglu  
+
 Nursu Dündar
